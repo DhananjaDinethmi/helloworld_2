@@ -2,4 +2,4 @@
 test_1
 hi....
 I'm Dhanaja
-interseted to start a new journey with GitHub
+and interseted to start a new journey with GitHub
